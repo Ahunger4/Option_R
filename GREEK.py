@@ -1,5 +1,3 @@
-
-
 import numpy as np
 import scipy.stats as si
 import matplotlib.pyplot as plt
